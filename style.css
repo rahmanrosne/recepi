@@ -1,0 +1,36 @@
+h2{
+    color: blue;
+    font-family: 'Nova Square', sans-serif;
+    text-align:center;
+}
+h3{
+    color: brown;
+    text-align:center;
+}
+ul,li{
+    color: red;
+}
+ul:hover{
+color: beige;
+background-color: black;
+border-radius: 20px;
+}
+p{
+    font-family: 'Nova Square', sans-serif;
+    background-color:aqua ; 
+    border-radius: 20px; 
+}
+div{
+    text-align:center;
+    background-color: bisque;
+    border-radius: 20px; 
+}
+.recipe{
+    border-radius: 20px; 
+}
+
+ul,li,a{
+    display:inline flex ;
+    padding: 10px;   
+}
+
